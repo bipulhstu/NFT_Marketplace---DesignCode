@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking05.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking05.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_wave.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_wave.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_abs23.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_abs23.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking03.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking03.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_icon_eth.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/icon_eth.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking07.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking07.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_ring.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_ring.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking01.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking01.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_3d.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_3d.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking04.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking04.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_musicnft.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_musicnft.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_bg1.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/bg1.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking10.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking10.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_music.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_music.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking06.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking06.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_portrait.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_portrait.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_abstract.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_abstract.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_pink.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_pink.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking08.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking08.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_cardblur.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/cardblur.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_metaverse.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_metaverse.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_ranking02.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/ranking02.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "io.designcode.nftapp-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_vw.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_vw.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_art.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_art.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_beer.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_beer.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_wave2.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_wave2.png"
+    },
+    {
+        "merged": "io.designcode.nftapp-merged_res-43:/drawable-v24_card_ball.png.flat",
+        "source": "io.designcode.nftapp-main-45:/drawable-v24/card_ball.png"
+    }
+]

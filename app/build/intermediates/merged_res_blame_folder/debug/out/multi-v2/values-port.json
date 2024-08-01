@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.designcode.nftapp-mergeDebugResources-41:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bipul\\.gradle\\caches\\transforms-4\\c3735ceb494b593c87ddcb1d536a568a\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

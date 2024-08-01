@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.designcode.nftapp-mergeDebugResources-41:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bipul\\.gradle\\caches\\transforms-4\\c3735ceb494b593c87ddcb1d536a568a\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bipul\\.gradle\\caches\\transforms-4\\1d8293d858acf53e9391bdf42e215953\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
